@@ -1,0 +1,222 @@
+[
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256209",
+        "username": "abc",
+        "password": "1234"
+    },
+    {
+        "firstname": "A",
+        "lastname": "V",
+        "gender": "Female",
+        "dob": "2022-07-05",
+        "address": "ewrdgfhg",
+        "phone": "546768",
+        "username": "admin",
+        "password": "123"
+    },
+    {
+        "firstname": "A",
+        "lastname": "V",
+        "gender": "Female",
+        "dob": "2022-07-05",
+        "address": "ewrdgfhg",
+        "phone": "546768",
+        "username": "admin2",
+        "password": "123"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256209",
+        "username": "abc",
+        "password": "123"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256209",
+        "username": "abcd",
+        "password": "123"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256209",
+        "username": "abc",
+        "password": "123"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256209",
+        "username": "abc",
+        "password": "123"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Dhaka",
+        "phone": "2345",
+        "username": "abc",
+        "password": "123"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256209",
+        "username": "abc",
+        "password": "123"
+    },
+    {
+        "firstname": "Israt",
+        "lastname": "Jahan",
+        "gender": "Female",
+        "dob": "2022-01-30",
+        "address": "Dinajpur",
+        "phone": "017339809345",
+        "username": "parboti",
+        "password": "parboti"
+    },
+    {
+        "firstname": "Israt",
+        "lastname": "Jahan",
+        "gender": "Female",
+        "dob": "2022-01-30",
+        "address": "Dinajpur",
+        "phone": "017339809345",
+        "username": "parboti",
+        "password": "parboti"
+    },
+    {
+        "firstname": "Israt",
+        "lastname": "Jahan",
+        "gender": "Female",
+        "dob": "2022-01-30",
+        "address": "Dhaka",
+        "phone": "017339809345",
+        "username": "parboti",
+        "password": "parboti"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-04",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256209",
+        "username": "pranto",
+        "password": "12345"
+    },
+    {
+        "firstname": "pranto",
+        "lastname": "alom",
+        "gender": "Male",
+        "dob": "2022-11-04",
+        "address": "nilphamari",
+        "phone": "0173345674",
+        "username": "pranto",
+        "password": "12345"
+    },
+    {
+        "firstname": "israt",
+        "lastname": "jahan",
+        "gender": "Female",
+        "dob": "2001-12-14",
+        "address": "Mirpur Dohs",
+        "phone": "01786791022",
+        "username": "israt",
+        "password": "isratisrat"
+    },
+    {
+        "firstname": "Nafijul",
+        "lastname": "Haque",
+        "gender": "Male",
+        "dob": "2022-11-02",
+        "address": "Doshmile,kaharole,Dinajpur",
+        "phone": "01733256",
+        "username": "abc",
+        "password": "123"
+    },
+    {
+        "firstname": "Sami",
+        "lastname": "Nabi",
+        "gender": "Male",
+        "dob": "2022-11-03",
+        "address": "R\/A",
+        "phone": "09876545",
+        "username": "sami",
+        "password": "nabi"
+    },
+    {
+        "firstname": "razi",
+        "lastname": "rahman",
+        "gender": "Male",
+        "dob": "2023-03-08",
+        "address": "asfereasss",
+        "phone": "01703548489",
+        "username": "razi",
+        "password": "razi12345"
+    },
+    {
+        "firstname": "shila",
+        "lastname": "shabiha",
+        "gender": "Female",
+        "dob": "2023-02-28",
+        "address": "kochukhet",
+        "phone": "01703548489",
+        "username": "shila",
+        "password": "shila12345"
+    },
+    {
+        "firstname": "aparazita",
+        "lastname": "nubah",
+        "gender": "Female",
+        "dob": "2023-03-09",
+        "address": "uttora",
+        "phone": "01703548489",
+        "username": "aparazita",
+        "password": "aparazita12345"
+    },
+    {
+        "firstname": "aparazitaaa",
+        "lastname": "nubah",
+        "gender": "Female",
+        "dob": "2023-03-09",
+        "address": "uttora",
+        "phone": "01703548489",
+        "username": "aparazita",
+        "password": "aparazita12345"
+    },
+    {
+        "firstname": "shila",
+        "lastname": "shabiha",
+        "gender": "Female",
+        "dob": "2023-03-08",
+        "address": "kochukhet",
+        "phone": "01703548489",
+        "username": "shilaa",
+        "password": "shila12345"
+    }
+]

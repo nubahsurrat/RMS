@@ -1,0 +1,38 @@
+[
+    {
+        "firstname": "Iqbal",
+        "lastname": "Alom",
+        "gender": "Male",
+        "dob": "1996-03-12",
+        "address": "Khulna",
+        "phone": "01795564532",
+        "username": "iqbal"
+    },
+    {
+        "firstname": "Srity",
+        "lastname": "Islam",
+        "gender": "Female",
+        "dob": "2000-04-15",
+        "address": "Dhaka",
+        "phone": "55685346",
+        "username": "srity"
+    },
+    {
+        "firstname": "Dristy",
+        "lastname": "Islam",
+        "gender": "Female",
+        "dob": "2002-07-25",
+        "address": "Panchagarh",
+        "phone": "54478668",
+        "username": "dristy"
+    },
+    {
+        "firstname": "Yamlic",
+        "lastname": "Abdullah",
+        "gender": "Male",
+        "dob": "2000-09-23",
+        "address": "Rajshahi",
+        "phone": "01745678932",
+        "username": "yamlic"
+    }
+]
